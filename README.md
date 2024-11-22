@@ -14,8 +14,6 @@ EcoDicas é um aplicativo voltado para compartilhar dicas sobre práticas susten
 - **Android Studio**: Ambiente de desenvolvimento integrado (IDE).
 - **RecyclerView**: Componente para exibir a lista de dicas.
 - **SearchView**: Componente para pesquisa de dicas.
-- **SQLite**: Base de dados para persistência das dicas (opcional).
-- **Material Design**: Para uma interface mais agradável e intuitiva.
 
 ## Como Executar
 
