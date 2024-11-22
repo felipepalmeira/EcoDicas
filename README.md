@@ -39,7 +39,7 @@ Repositório do projeto no GitHub: [https://github.com/felipepalmeira/EcoDicas](
 
 ### Screenshots
 
-![Tela de integrantes](https://github.com/felipepalmeira/EcoDicas/blob/main/screenshot.png)
+![Lista de Dicas:](https://github.com/felipepalmeira/EcoDicas/blob/main/screenshot.png)
 
 ### Contribuições
 
