@@ -5,9 +5,8 @@ EcoDicas é um aplicativo voltado para compartilhar dicas sobre práticas susten
 ## Funcionalidades
 
 - **Lista de Dicas**: Apresenta uma lista de dicas sobre sustentabilidade e economia de energia.
-- **Pesquisa**: Permite buscar dicas por palavras-chave.
-- **Toast**: Ao clicar em uma dica, uma mensagem Toast mostra mais detalhes.
-- **Tema**: Utiliza um tema com cores relacionadas à sustentabilidade.
+- **Página de Integrantes**: Apresenta o nome dos integrantes 
+
 
 ## Tecnologias Utilizadas
 
