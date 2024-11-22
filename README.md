@@ -1,4 +1,4 @@
-# EcoDicas
+# ![ECO:](https://github.com/felipepalmeira/EcoDicas/blob/main/4411360.png) EcoDicas
 
 EcoDicas é um aplicativo voltado para compartilhar dicas sobre práticas sustentáveis e economia de energia. O objetivo é incentivar o uso consciente dos recursos naturais através de uma interface simples e amigável.
 
