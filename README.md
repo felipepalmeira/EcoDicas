@@ -40,7 +40,7 @@ Repositório do projeto no GitHub: [https://github.com/felipepalmeira/EcoDicas](
 
 ### Screenshots
 
-Adicione screenshots do aplicativo em execução para melhor visualização.
+![Tela de integrantes](https://github.com/felipepalmeira/EcoDicas/blob/main/screenshot.png)
 
 ### Contribuições
 
