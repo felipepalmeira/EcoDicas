@@ -1,4 +1,4 @@
-# ![Logo da cor verde , escrito ECO](file:///Users/annacristinadonaaraujo/Desktop/4411360.png) EcoDicas
+# EcoDicas
 
 EcoDicas é um aplicativo voltado para compartilhar dicas sobre práticas sustentáveis e economia de energia. O objetivo é incentivar o uso consciente dos recursos naturais através de uma interface simples e amigável.
 
